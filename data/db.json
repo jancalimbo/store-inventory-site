@@ -1,0 +1,29 @@
+{
+  "categories":[
+    {
+      "category": "Pastries",
+      "description": "Sugar plum jelly beans donut chocolate tart tiramisu pudding cheesecake I love. Jelly beans tart muffin soufflé chocolate cake I love. Cupcake lemon drops sweet bear claw I love.",
+      "id": 1
+    },
+    {
+      "category": "Foods",
+      "description": "Reprehenderit ipsum, laboriosam yet beatae and ut elit anim. Fugit sed, si ratione for sit officia explicabo. Proident beatae nemo or cupidatat voluptatem quo. Mollit eum magni and totam ullamco but illo so dolorem.",
+      "id": 2
+    },
+    {
+      "category": "Clothes",
+      "description": "Eum. Dolore inventore. Elit ut in, quasi but vel dolor, for lorem. Ad quam yet accusantium quia aliquam. Eu unde so fugit proident, aliqua and iure but quaerat. Odit iure minima so suscipit so iure ea nemo. ",
+      "id": 3
+    },
+    {
+      "category": "Tools",
+      "description": "Iste pariatur eaque, or error minima and aute exercitationem. Labore deserunt, incididunt or sint si ipsam nequeporro. Vitae magni and nisi or ex for lorem and commodi for rem. Sit minima so commodo aute and tempora.",
+      "id": 4
+    },
+    {
+      "category": "Hygiene",
+      "description": "Muffin chocolate cake soufflé powder tiramisu soufflé cookie. Chocolate cake caramels ice cream gingerbread jelly beans. Sesame snaps icing dragée gingerbread pie.",
+      "id": 5
+    }
+  ]
+}

@@ -1,9 +1,10 @@
-/* The color scheme is the 426th screenshot okay? Ayawg kalimot2 diha Jan maawa ka */
+/* The color scheme is the 426th screenshot okay? Ayawg kalimot2 diha Jan */
 
 *{
   margin: 0;
   padding: 0;
 }
+
 html{
   background-color: #faead2;
 }
@@ -13,6 +14,10 @@ html{
   background-color: #faead2;
 }
 
+.landing-page{
+  background-color: #faead2;
+
+}
 
 .wrapper h1{
   margin-top: 30px;

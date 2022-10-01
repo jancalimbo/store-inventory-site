@@ -36,16 +36,16 @@ const Items = () => {
     setStocks('');
   }
 
+   //save to table
+   useEffect(()=>{
+    localStorage.setItem('items', JSON.stringify(items));
+  },[items])
+
   //deletion
   const deleteItem=(itemName)=>{
     // alert(index);
     setItem(items.filter(i => i.itemName !== itemName));
   }
-
-  //save to table
-  useEffect(()=>{
-    localStorage.setItem('items', JSON.stringify(items));
-  },[items])
 
 
   return ( 

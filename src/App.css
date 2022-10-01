@@ -19,3 +19,51 @@
     transform: rotate(360deg);
   }
 }
+
+/*styles for the categories and App.js */
+
+.category-card{
+  background-color: #2ec4b6;
+  width: 17vw;
+  height: 40vh;
+  /* border: chocolate solid 2px; */
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  padding: 1rem;
+}
+
+#every-category{
+  margin-bottom: 10px;
+  width: 17vw;
+  /* border: #2ec4b6 solid 2px; */
+  margin: 10px;
+}
+
+#basta-kani{
+  /* width: 80vw; */
+  margin: auto;
+  margin-left: 40px;
+}
+
+.landing-page{
+  width: 100vw;
+  height: 100vh;
+  /* background-color: aliceblue; */
+}
+
+#landing-title{
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-left: 50px;
+}
+
+.card-app-page{
+  background-color: #faead2;
+  margin: 40px;
+}
+
+.cat-lorem-ipsum{
+  margin: 30px;
+  text-align: justify;
+}
+
